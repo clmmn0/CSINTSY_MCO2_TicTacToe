@@ -10,8 +10,9 @@ A Java-based program implementation of the game TicTacToe which uses an intellig
 2. Navigate to the cloned version of this repository.
 3. Open the command prompt.
 4. Type and run `javac Main.java` in the command prompt. An instance of the Main class must be created upon running this prompt.
-5. Type and run `java Main` in the command prompt. A window showing the game must have popped out.
-6. Choose the intelligence level of the agent.
-7. Play the game.
+5. Type and run `java Main` in the command prompt. 
+6. Wait for a window to pop up showing the game.
+7. Choose the intelligence level of the agent.
+8. Play the game.
 
 You may also run the program using applications like Visual Studio Code.
